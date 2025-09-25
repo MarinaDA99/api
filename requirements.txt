@@ -1,6 +1,7 @@
 Flask
 Flask-Bcrypt
+Flask-CORS      
 psycopg2-binary
 PyJWT
 requests
-gunicorn
+gunicorn  
